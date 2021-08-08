@@ -1,2 +1,3 @@
 Hi! I'm Bob. I've been here for a while now.
 Welcome Bob, we have chocolate milk and cookies.
+Third line - interactive rebase section
