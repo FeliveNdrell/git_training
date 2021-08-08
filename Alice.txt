@@ -4,3 +4,5 @@ Soo Alice, where are you from?
 I'm from Washington DC.
 Is it in USA?
 'Updating the Dev Environment with remote changes' update this line for pull conflict section
+Seventh line - interactive rebase section
+Eigth line - interactive rebase section step 2
