@@ -3,4 +3,4 @@ This line was added to help learn branching
 Soo Alice, where are you from?
 I'm from Washington DC.
 Is it in USA?
-'Updating the Dev Environment with remote changes'
+'Updating the Dev Environment with remote changes' update this line for pull conflict section
